@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/Q357477/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/Q357477/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/Q357477/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Q357477/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/Q357477/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Q357477/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to apply a watermark to ChartControl
